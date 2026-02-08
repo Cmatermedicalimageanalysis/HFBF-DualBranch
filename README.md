@@ -21,7 +21,7 @@ The attachment below shows the detailed architecture of the proposed methodology
 <p align="center">
   <img 
     src="https://github.com/user-attachments/assets/d57b11a2-ce54-486f-857e-bc244eb2efe0"
-    width="700"
+    width="300"
   />
 </p>
 
@@ -31,7 +31,7 @@ The attachment below shows the detailed architecture of the proposed methodology
 <p align="center">
   <img 
     src="https://github.com/user-attachments/assets/501b5423-5d85-4759-a427-219b8f9806e5"
-    width="550"
+    width="250"
   />
 </p>
 
