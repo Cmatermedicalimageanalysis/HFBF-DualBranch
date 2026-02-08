@@ -2,8 +2,11 @@
 
 This is the official GitHub repository corresponding to the research paper entitled  
 **A Hierarchical Factorized Bilinear Fusion based Dual-branch Deep Learning Model for Histopathology Image Classification**.  
-The research work is conducted by the authors from the  
-**_Department of Computer Science and Engineering, Jadavpur University, India_**.
+**Accepted at:** _8th IEEE International Conference on Emerging Smart Computing and Informatics (ESCI 2026), AISSMS IOIT, Pune_
+
+**Authors:**  
+Pramila Soren, Jeetesh Abrol, Mahantapas Kundu, Ram Sarkar  
+Department of Computer Science and Engineering, Jadavpur University, Kolkata, Indi
 
 The proposed framework introduces a dual-branch CNN architecture using  
 **EfficientNet-B0** and **MobileNetV3-Large** to extract 
