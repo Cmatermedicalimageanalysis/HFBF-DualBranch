@@ -7,8 +7,7 @@ The research work is conducted by the authors from the
 
 The proposed framework introduces a dual-branch CNN architecture using  
 **EfficientNet-B0** and **MobileNetV3-Large** to extract complementary multi-scale  
-feature representations from histopathological images. A novel  
-**Hierarchical Factorized Bilinear Fusion (HFBF)** module is employed to model  
+feature representations from histopathological images. **Hierarchical Factorized Bilinear Fusion (HFBF)** module is employed to model  
 higher-order cross-branch feature interactions. The fused representations are further  
 enhanced using **Squeeze-and-Excitation (SE) attention** for discriminative  
 channel-wise feature recalibration, followed by a regularized fully-connected classifier  
