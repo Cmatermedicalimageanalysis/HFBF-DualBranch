@@ -14,6 +14,6 @@ enhanced using **Squeeze-and-Excitation (SE) attention** for discriminative
 channel-wise feature recalibration, followed by a regularized fully-connected classifier  
 for breast cancer classification.
 
-The attachment below shows the detailed architecture of the proposed methodology.
-![Model Architecture]<img width="1818" height="2253" alt="Model_diagram_updated_latest drawio(1)" src="https://github.com/user-attachments/assets/d57b11a2-ce54-486f-857e-bc244eb2efe0" />
+The attachment below shows the detailed architecture of the proposed methodology.![Model Architecture](https://github.com/user-attachments/assets/d57b11a2-ce54-486f-857e-bc244eb2efe0)
+![Model Architecture](https://github.com/user-attachments/assets/d57b11a2-ce54-486f-857e-bc244eb2efe0)
 
