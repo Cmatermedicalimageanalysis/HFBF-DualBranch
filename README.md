@@ -14,6 +14,30 @@ enhanced using **Squeeze-and-Excitation (SE) attention** for discriminative
 channel-wise feature recalibration, followed by a regularized fully-connected classifier  
 for breast cancer classification.
 
-The attachment below shows the detailed architecture of the proposed methodology.![Model Architecture](https://github.com/user-attachments/assets/d57b11a2-ce54-486f-857e-bc244eb2efe0)
-![Model Architecture](https://github.com/user-attachments/assets/d57b11a2-ce54-486f-857e-bc244eb2efe0)
+The attachment below shows the detailed architecture of the proposed methodology.
+
+<h3 align="center">Model Architecture</h3>
+
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/d57b11a2-ce54-486f-857e-bc244eb2efe0"
+    width="700"
+  />
+</p>
+
+
+<h3 align="center">Hierarchical Factorized Bilinear Fusion Module</h3>
+
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/501b5423-5d85-4759-a427-219b8f9806e5"
+    width="550"
+  />
+</p>
+
+
+
+
+
+
 
